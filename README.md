@@ -1,2 +1,2 @@
 # hello-world
-hello-world By Mohan
+hello-world
