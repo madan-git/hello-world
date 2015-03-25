@@ -1,1 +1,5 @@
 test
+git@github.com:madan-git/hello-world.git
+https://github.com/madan-git/hello-world.git
+https://github.com/madan-git/hello-world
+test
